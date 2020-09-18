@@ -1,0 +1,6 @@
+_G.Pro = true
+while wait() do
+if _G.Pro == true then
+print("yes")
+end
+end
